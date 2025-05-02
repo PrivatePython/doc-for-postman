@@ -1,6 +1,6 @@
 1. Заходим на [сайт документации commercetools](https://docs.commercetools.com/sdk/postman)
 2. нажимаем внизу на - [Composable Commerce collection](https://github.com/commercetools/commercetools-postman-collection/tree/master/api)
-   ![](\Pasted-image-20250502213634.png)
+   ![](Pasted-image-20250502213634.png)
 3. Открываем collection json
    ![](\Pasted image 20250502213717.png)
 4. Жмем [View raw](https://github.com/commercetools/commercetools-postman-collection/raw/refs/heads/master/api/collection.json)
